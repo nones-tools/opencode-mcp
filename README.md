@@ -1,4 +1,6 @@
-[![OpenCode MCP — NONES](docs/assets/banner.svg)](https://www.npmjs.com/org/nones)
+[![OpenCode MCP — NONES](docs/assets/banner.png)](https://github.com/nones-tools/nones-mcp/tree/main/apps/opencode)
+
+> **Current source and releases:** [OpenCode MCP in the Nones MCP monorepo](https://github.com/nones-tools/nones-mcp/tree/main/apps/opencode).
 
 # OpenCode MCP
 
